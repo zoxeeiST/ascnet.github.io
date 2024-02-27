@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+    min-height: 100vh;
+    max-width: 200vh;
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+h1 {
+    color: aliceblue;
+    position: relative;
+    top: 50px;
+    font-size: 50px;
+}
+p {
+    color: aliceblue;
+    position: relative;
+    top: 50px;
+    font-size: 20px;
+}
+h2 {
+    color: aliceblue;
+    position: relative;
+    top: 50px;
+    font-size: 30px;
+}
